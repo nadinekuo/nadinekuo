@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadinekuo
-- 👀 I’m interested in Software Engineering and Web Development including Software Quality Assurance
-- 🌱 I’m currently learning about GitHub's Action Framework
+- 👀 I’m interested in Web Development (React), Java Development & Software Quality Assurance
+- 🌱 I’m currently learning about GitHub's Action Framework for Continuous Integration
 - 📫 How to reach me: hnkuo2@illinois.edu / nkuo@tudelft.net
 
 <!---
