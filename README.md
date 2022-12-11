@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nadinekuo
-- 👀 I’m interested in Web Development (React), Java Development & Software Quality Assurance
-- 🌱 I’m currently learning about GitHub's Action Framework for Continuous Integration
-- 📫 How to reach me: hnkuo2@illinois.edu / nkuo@tudelft.net
+- 👀 Passionate about JavaScript/React, Java/Spring, Python/Django
+- 🌱 I’m currently learning about GitHub's Actions for CI
+- 📫 How to reach me: nadinekuo@hotmail.com
 
 <!---
 nadinekuo/nadinekuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
