@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nadinekuo
-- 👀 Passionate about JavaScript/React, Java/Spring, Python/Django
-- 🌱 I’m currently learning about GitHub's Actions for CI
-- 📫 How to reach me: nadinekuo@hotmail.com
+- 👀 Passionate about building software that contributes positively to our society
+- 🌱 I’m currently learning about GitHub's Actions for CI/CD
+- 📫 How to reach me: nkuo@tudelft.net
 
 <!---
 nadinekuo/nadinekuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
