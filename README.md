@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadinekuo
 - 👀 Passionate about building software that contributes positively to our society
-- 🌱 I’m currently learning about GitHub's Actions for CI/CD
+- 🌱 I’m currently learning about Mobile Development using Flutter
 - 📫 How to reach me: nkuo@tudelft.net
 
 <!---
