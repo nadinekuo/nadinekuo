@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadinekuo
-- 👀 Passionate about building software that contributes positively to our society
-- 🌱 I’m currently learning about Mobile Development using Flutter
+- 👀 Passionate about building software that contributes to our globe
+- 🌱 I’m currently learning about mobile development using Flutter
 - 📫 How to reach me: nkuo@tudelft.net
 
 <!---
