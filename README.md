@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nadinekuo
-- 👀 Passionate about building software that contributes to our globe
-- 🌱 I’m currently learning about AI/ML applications in Software Engineering, C#/.NET, ReactJS, MS Azure
+- 👀 Passionate about: building software that contributes to our globe, NLP and LLMs
+- 🌱 I’m currently learning about .NET, React
 - 📫 How to reach me: nkuo@tudelft.net
 
 <!---
